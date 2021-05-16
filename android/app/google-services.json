@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "556242676634",
+    "project_id": "phone-auth-getx",
+    "storage_bucket": "phone-auth-getx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556242676634:android:6d118bff235ec7d5e5e823",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth_firebase_last"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556242676634-op7gqef7114a9qkc19m5qav6ejljue5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phone_auth_firebase_last",
+            "certificate_hash": "a14a0ab728091dee2eaf820800003c01d3037517"
+          }
+        },
+        {
+          "client_id": "556242676634-uivnp16bmq69uk5o2gv3r2v211q9igg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1mAn8ctR6BL7P_uVZyh3OVIRYz1dL4Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556242676634-uivnp16bmq69uk5o2gv3r2v211q9igg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
